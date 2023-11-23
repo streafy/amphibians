@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.streafy.amphibians"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.streafy.amphibians"
